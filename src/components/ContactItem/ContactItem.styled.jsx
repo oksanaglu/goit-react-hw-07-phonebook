@@ -13,6 +13,7 @@ export const Text = styled.p`
 
 export const Button = styled.button`
   margin-left: 20px;
+  
   cursor: pointer;
   height: 50%;
   font-size: 13px;
